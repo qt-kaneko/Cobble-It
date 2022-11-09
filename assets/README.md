@@ -1,0 +1,1 @@
+This folder contains non-datapack assets, such as screenshots for datapack websites, don't copy it inside the release.
